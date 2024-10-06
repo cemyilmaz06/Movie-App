@@ -15,7 +15,7 @@ const SwitchButton = () => {
   }
 
   return (
-    <div className="flex col-span-1 justify-end">
+    <div className= "flex col-span-1 justify-end" >
       <button
         type="button"
         title="Toggle dark/light mode"
